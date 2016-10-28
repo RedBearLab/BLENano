@@ -5,18 +5,27 @@
 
 ![image](interface.jpg)
 
-### V1.0
+### DAPLink V1.0
+
+For V1.0 version of the DAPLink USB dongle, you can update it to the latest interface firmware called DAPLink which is supported and developed by ARM mbed.
+
+[Source code](https://github.com/mbedmicro/DAPLink)
+
+[Latest interface firmware (DAPLink)](F103-DAPLink/board_v1.0)
+
+### MK20 V1.0
 
 For V1.0 version of the MK20 or DAPLink USB dongle, you can update it to the latest interface firmware called DAPLink which is supported and developed by ARM mbed.
 
-Source code:
+[Source code](https://github.com/mbedmicro/DAPLink)
 
-https://github.com/mbedmicro/DAPLink
+[Latest interface firmware (DAPLink)](MK20-USB/board_v1.0)
 
-### V1.5
+### MK20 USB V1.5
 
 For V1.5, you can only use the CMSIS-DAP firmware.
 
+[Latest interface firmware (CMSIS)](MK20-USB/board_v1.5)
 
 ## Updating Interface Firmware
  

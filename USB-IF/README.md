@@ -3,6 +3,8 @@
 
 ## PCB Version
 
+![image](interface.jpg)
+
 ### V1.0
 
 For V1.0 version of the MK20 or DAPLink USB dongle, you can update it to the latest interface firmware called DAPLink which is supported and developed by ARM mbed.

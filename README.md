@@ -2,6 +2,8 @@
 BLE Nano
 -
 
+![image](Docs/ble_nano_pinout.png)
+
 This repository contains the resources for the BLE Nano development board and the MK20 or DAPLink USB interface dongle.
 
 The BLE Nano is compatible to Arduino (but not 100%) and allows you to use the Arduino IDE for development. Also, it supports mbed online development.
